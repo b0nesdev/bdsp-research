@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'BDSP Research Index'
+copyright = '2021, Team Renegade'
 author = 'Graziella'
 
 release = '0.1'
