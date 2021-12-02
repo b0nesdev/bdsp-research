@@ -1,6 +1,5 @@
-Usage
-=====
-
+Understanding ROMFS & EXEFS
+===
 .. _installation:
 
 Installation
