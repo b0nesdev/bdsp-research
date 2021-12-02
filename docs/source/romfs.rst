@@ -23,5 +23,5 @@ In order to really describe and have this make sense to you, I will be using a a
 
 Imagine the EXEFS as the dough to a pizza, the pizza dough is the foundation in which the sauce,cheese and toppings lie on top of.
 
-The toppings are the contents of the ROMFS, the sauce, cheese, pepperoni and ~~pineapples~~
+The toppings are the contents of the ROMFS, the sauce, cheese, pepperoni and ~pineapples~
 
