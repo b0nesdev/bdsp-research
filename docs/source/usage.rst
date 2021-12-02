@@ -1,16 +1,14 @@
 Understanding ROMFS & EXEFS
 ===========================
 
-.. _installation:
 
-Installation
-------------
 
-To use Lumache, first install it using pip:
+What are the ROMFS & EXEFS?: A introduction.
+--------------------------------------------
+After you dump the games files you will see it's contents split into these two folders. (Link to setup/dumping guide here)
+ROMFS means Rom Filesystem while EXEFS means Executable Filesystem they are split up due to their vast differences in what their jobs are.
+To explain this I will be using Pizza!
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
 
 Creating recipes
 ----------------
