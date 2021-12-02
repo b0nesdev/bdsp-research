@@ -21,7 +21,7 @@ How it comes together
 ---------------------
 In order to really describe and have this make sense to you, I will be using a **pizza analogy**.
 
-Imagine the EXEFS as the dough to a pizza, the pizza dough is the foundation in which the sauce,cheese and toppings lie on top of.
+Imagine the EXEFS as the dough to a pizza, the pizza dough is the foundation in which the sauce, cheese and toppings lie on top of.
 
 The toppings are the contents of the ROMFS, the sauce, cheese, pepperoni & other toppings.
 
